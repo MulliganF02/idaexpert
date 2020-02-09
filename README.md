@@ -1,1 +1,1 @@
-# idaexpert
+# IDA: Interior Design Assistant
